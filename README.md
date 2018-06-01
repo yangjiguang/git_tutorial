@@ -1,6 +1,6 @@
 #git-tutorial
 #git-tutorial
-	`
+	
 	this is just a test.
-add feature-a	`
-feature-a
+add feature-a	
+add feature-b
